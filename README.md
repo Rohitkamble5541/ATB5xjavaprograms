@@ -6,3 +6,4 @@
 4. Identifiers, Operators
 5. If and Switch Condition
 6. For Loop, Do While, While
+7. Arrays( 1D, 2D)
